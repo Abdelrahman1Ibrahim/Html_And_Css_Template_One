@@ -1,2 +1,2 @@
-# Html_And_Css_Templete_One
+# Html_And_Css_Template_One
 HTML And CSS design One
